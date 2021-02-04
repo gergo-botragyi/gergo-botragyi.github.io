@@ -52,7 +52,7 @@
 }
 #netikett a{
     border: 1px solid black;
-    text-align: center;
+    align-items: center;
 }
 #netikettek{
     font-size: 1.25em;
